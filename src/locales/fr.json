@@ -1,0 +1,48 @@
+{
+    "MainContent" : {
+        "FirstSlide":{
+            "Header": "Bienvenue",
+            "Pragraph" : "Découvrez les délices de la cuisine marocaine au restaurant Riad Andalous à Casablanca",
+            "Button": "Savoir plus"
+        },
+        "SecondSlide":{
+            "Header": "Menu",
+            "Pragraph" : "laissez-vous emporter par un festival de saveurs exquises avec notre Menu",
+            "Button": "Télécharger Menu"
+        }
+    },
+    "AproprosSection":{
+        "FirstHeader": "A propos",
+        "SecondHeader" : "Riad Al Andalous - UN MÉLANGE ENTRE MODERNITÉ ET TRADITION .",
+        "Paragraphs":{
+            "firstParag": "Riad Andalous est un restaurant authentique 100 % marocain, où l’on savoure une cuisine raffinée dans un cadre élégant qui fusionne habilement tradition et modernité..",
+            "secondParag" : "xxxxxx, cet endroit vous offre une expérience culinaire exceptionnelle, où vous pourrez déguster des mets marocains traditionnels d’une qualité irréprochable."
+        },
+        "Button" : "Résérvez votre table"
+
+    },
+
+    "AndalousSect1":{
+        "FirstHeader" : "VENEZ ÉMERVEILLER VOS PAPILLES",
+        "SecondHeader": "Riad Andalous Food: the guarantee of an unforgettable explosion of flavors.",
+        "Divs" : {
+            "firstDiv" :{
+                "FirstHeader": "Notre décoration",
+                "paragraph" : "La décoration du restaurant Riad Andalous Food à Casablanca , sidi Moumen est un mélange harmonieux de tradition et de modernité, créant une atmosphère élégante et accueillante mémorable pour les convives."
+            },
+            "secondDiv" :{
+                "FirstHeader": "Notre menu",
+                "paragraph" : "Riad Adnalous est un véritable paradis pour les amateurs de cuisine marocaine, offrant un menu diversifié et savoureux qui ravira vos papilles avec des saveurs authentiques et des ingrédients de qualité."
+            }
+        }
+
+        
+    },
+
+    "AboutPage": {
+        "HeroContent":{
+            "HeaderOne" : "A propros"
+        }
+    }
+
+}

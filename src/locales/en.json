@@ -1,0 +1,47 @@
+{
+    "MainContent" : {
+        
+        "FirstSlide":{
+            "Header": "Welcome",
+            "Pragraph" : "Discover the delights of Moroccan cuisine at Riad Al Andalous",
+            "Button": "Read More"
+        },
+        "SecondSlide":{
+            "Header": "Menu",
+            "Pragraph" : "let your self be carried by a festival of exquisite flavors0 with our menu",
+            "Button": "Download Menu"
+        }
+
+    },
+    "AproprosSection":{
+        "FirstHeader": "About Us",
+        "SecondHeader" : "TAJ MOROCCAN FOOD - A MIX BETWEEN MODERNITY AND TRADITION.",
+        "Paragraphs":{
+            "firstParag": "Riad Andalous Food is an authentic 100% Moroccan restaurant, where you can savor refined cuisine in an elegant setting that skilfully fuses tradition and modernity.",
+            "secondParag" : "Rue Jebel Ayachi near Résidence Saad 1, Taj Moroccan Food offers an exceptional culinary experience, where you can enjoy traditional Moroccan dishes of impeccable quality."
+        },
+        "Button" : "Book your table"
+
+    },
+    "AndalousSect1":{
+        "FirstHeader" : "COME AND DELIGHT YOUR TASTE BUDS",
+        "SecondHeader": "Riad Andalous Food: the guarantee of an unforgettable explosion of flavors.",
+        "Divs" : {
+            "firstDiv" :{
+                "FirstHeader": "Our decoration",
+                "paragraph" : "The decor of the Riad Andalous Food restaurant in Casablanca, sidi Moumen is a harmonious blend of tradition and modernity, creating a memorably elegant and welcoming atmosphere for guests."
+            },
+            "secondDiv" :{
+                "FirstHeader": "Notre menu",
+                "paragraph" : "Riad Andalous Food is a true paradise for lovers of Moroccan cuisine, offering a diverse and tasty menu that will delight your taste buds with authentic flavors and quality ingredients."
+            }
+        }
+    },
+
+    "AboutPage": {
+        "HeroContent":{
+            "HeaderOne" : "About Us"
+        }
+    }
+    
+}
