@@ -14,7 +14,7 @@ export function App() {
       <>
           <Nav />
           <Routes>
-              <Route path="/" element={<Home />} />
+              <Route exact path="/" element={<Home />} />
               <Route path="/About" element={<About />} />
               <Route path="/Galerie" element={<Galerie />} />
               <Route path="/Menu" element={<Menu />} />
