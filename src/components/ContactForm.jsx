@@ -6,7 +6,7 @@ const ContactForm = () => {
         <div className='w-full max-w-[950px] mx-auto p-4'>
             <h1 className='text-4xl'>Contact form</h1>
             <p className='py-5 text-lg font-serif text-gray-600'>N’hésitez pas à prendre contact avec le restaurant Riad Andalous pour réserver votre table et profiter d’une expérience gastronomique exceptionnelle. Notre équipe chaleureuse et professionnelle est là pour répondre à toutes vos questions et faire de votre visite une expérience inoubliable.</p>
-            <form action='https://getform.io/f/57924472-de35-483b-9f94-b2179f3c50b8' method='POST' encType='multipart/form-data'>
+            <form >
                 <label>Nom et Prénom</label>
                 <div className='pb-5'>
                     <input type="text" name="name" className='w-full  px-4 caret-[#f26d35] h-12   '/>
