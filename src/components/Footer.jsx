@@ -20,11 +20,7 @@ const Footer = () => {
                 <a className='underline underline-offset-2 text-[#FFFFFF]' href=''>conatct@email.com</a>
 
             </div>
-            <div className="flex flex-col items-center">
-                <h1 className="font-serif text-2xl font-semibold">Horaire d'ouverture</h1>
-                <a className='underline underline-offset-2 text-[#FFFFFF]' href=''>Riad Andalous Food</a>
-                
-            </div>
+            
       </div>
 
       <div className='max-w-[320px] mx-auto px-4'>

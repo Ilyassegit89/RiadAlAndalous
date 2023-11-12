@@ -10,7 +10,7 @@ const GlovoCLa = () => {
                 </div>
                 <div className='flex flex-col justify-between items-center'>
                     <img className='max-w-[400px] h-[120px]'  src={GlovoPng}/>
-                        <a target='_blank' href='https://glovoapp.com/ma/fr/sidi-moumen/restaurant-riad-andalouss/' className='min-w-[200px]  font-bold cursor-pointer border-[5px] border-black p-4 hover:bg-[#ffcc1b] hover:text-[#00a082]  hover:border-[#ffcc1b]  text-center mt-16 uppercase'>commandez en ligne</a>
+                        <a target='_blank' href='https://glovoapp.com/ma/fr/casablanca/restaurant-riad-andalouss/' className='min-w-[200px]  font-bold cursor-pointer border-[5px] border-black p-4 hover:bg-[#ffcc1b] hover:text-[#00a082]  hover:border-[#ffcc1b]  text-center mt-16 uppercase'>commandez en ligne</a>
 
                 </div>
             </div>
